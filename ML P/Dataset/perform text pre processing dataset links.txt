@@ -1,0 +1,5 @@
+https://github.com/itacademicforum/MSc_Part2_Machine_Learning_Practicals/tree/main/Practical_10/txt_sentoken/txt_sentoken/neg
+
+
+
+https://github.com/itacademicforum/MSc_Part2_Machine_Learning_Practicals/tree/main/Practical_10/txt_sentoken/txt_sentoken/pos
